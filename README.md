@@ -1,12 +1,12 @@
 # airbnb-clone-project
-##Project Introduction: Overview of the Airbnb Clone Project
+Project Introduction: Overview of the Airbnb Clone Project
 
-###Background Context 🎉
+#### Background Context 🎉
 Welcome to the AirBnB Clone Project! 🏠✨
 The goal of this project is to give you practical experience in developing a simple booking and management system using AirBnB as a case study. A good booking system should have a simple but lovely UI/UX that allows users to perform basic functionalities.
 
 This is the final product you will be building:
-#####Pages	Description	UI
+##### Pages	Description	UI
 
 Page-1	This is the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price, and a brief description. The design focuses on user-friendly navigation and visual appeal.	
 
@@ -20,7 +20,7 @@ Simple Checkout View: A streamlined process for booking properties.
 Search Functionality: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
 
 
-###Project Goals 🎯
+### Project Goals 🎯
 At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
 Understand the project scope.
 Identify key features to be implemented.
@@ -28,15 +28,15 @@ Adhere to designated timelines and milestones.
 Utilize the necessary tools and technologies.
 Fulfill your roles and responsibilities within the project.
 
-###Features Overview 🛠️
-####Key features to be implemented:
+### Features Overview 🛠️
+#### Key features to be implemented:
 Property Listings: Display properties with relevant details and images.
 Booking System: Allow users to book properties, view booking details, and manage bookings.
 Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
 User Authentication: Secure login and registration for users.
 
 
-###Project Timeline 🗓️
+### Project Timeline 🗓️
 Breakdown of project phases and milestones:
 Week	Projects
 1 - 2	Project Planning and UI/UX Design
@@ -49,17 +49,17 @@ Week	Projects
 15 - 16	Final Project Review and Presentation
 
 
-###Technologies Used 💻
+### Technologies Used 💻
 Introduction to the tech stack:
 Frontend: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
 Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
 
-###Software Development Team Roles 👥
+### Software Development Team Roles 👥
 In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a breakdown of the typical roles within a development team and their key responsibilities:
 
-####Project Manager (PM) 🗂️
+#### Project Manager (PM) 🗂️
 Overview: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
 Key Responsibilities:
 Oversee project progress and ensure milestones are met.
@@ -69,7 +69,7 @@ Identify and mitigate risks.
 Serve as the primary point of contact for stakeholders.
 
 
-####Frontend Developers 💻
+#### Frontend Developers 💻
 Overview: Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
 Key Responsibilities:
 Implement UI/UX designs using HTML, CSS, and JavaScript.
@@ -79,7 +79,7 @@ Collaborate with designers to create visually appealing interfaces.
 Optimize the application for maximum speed and scalability.
 
 
-####Backend Developers 🔧
+#### Backend Developers 🔧
 Overview: Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
 Key Responsibilities:
 Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
@@ -89,7 +89,7 @@ Implement security and data protection measures.
 Optimize server performance and scalability.
 
 
-####Designers 🎨
+#### Designers 🎨
 Overview: Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
 Key Responsibilities:
 Create wireframes, mockups, and prototypes.
@@ -99,7 +99,7 @@ Collaborate with frontend developers to implement designs.
 Conduct usability testing to gather feedback and improve designs.
 
 
-####QA/Testers 🧪
+#### QA/Testers 🧪
 Overview: QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
 Key Responsibilities:
 Develop and execute test plans and test cases.
@@ -109,7 +109,7 @@ Verify bug fixes and perform regression testing.
 Ensure the application meets quality standards and user requirements.
 
 
-####DevOps Engineers 🚀
+#### DevOps Engineers 🚀
 Overview: DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
 Key Responsibilities:
 Automate deployment processes.
@@ -119,7 +119,7 @@ Implement continuous integration and continuous deployment (CI/CD) pipelines.
 Ensure security and compliance in the production environment.
 
 
-####Product Owner (PO) 📋
+#### Product Owner (PO) 📋
 Overview: The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
 Key Responsibilities:
 Define and prioritize product features and requirements.
@@ -129,7 +129,7 @@ Ensure the product delivers value to users and aligns with business goals.
 Make decisions on scope and accept completed work.
 
 
-####Scrum Master 🏅
+#### Scrum Master 🏅
 Overview: The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
 Key Responsibilities:
 Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
