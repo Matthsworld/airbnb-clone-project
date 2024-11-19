@@ -73,7 +73,7 @@ In short, it ensures a cohesive, efficient, and user-centered final product.
 #### UI Component Patterns
 In this section, we will describe the key UI components that will be implemented for the AirBnB Clone project. These components will form the building blocks of the user interface, ensuring consistency and usability across the application.
 
-#### Navbar
+#### 1. Navbar
 Purpose: The Navbar will provide users with easy navigation across the website.
 Features:
 Logo/Branding on the left.
@@ -81,7 +81,7 @@ Navigation links for "Home," "Search," "Messages," "Profile," and "Login/Sign Up
 A search bar to filter properties based on location or other criteria.
 Responsive design to adapt to mobile and desktop layouts.
 
-#### Property Card
+#### 2. Property Card
 Purpose: Displays a summary of individual properties listed on the platform.
 Features:
 Property image thumbnail.
@@ -90,7 +90,7 @@ Rating and review count.
 "Book Now" or "Details" button for user interaction.
 Hover effect to highlight the card and show additional details or options.
 
-#### Footer
+#### 3. Footer
 Purpose: Provides additional links and information at the bottom of the page.
 Features:
 Contact information and support links.
