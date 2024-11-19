@@ -59,6 +59,16 @@ left: 603px;
 gap: 37px;
 opacity: 0px;
 
+##### Identifying design properties in a mock-up is important because it:
+
+1. Clarifies Intent: Defines visual and functional goals.
+2. Enhances User Experience: Ensures intuitive design and navigation.
+3. Guides Development: Provides clear specs for implementation.
+4. Maintains Brand Consistency: Aligns with brand guidelines.
+5. Improves Communication: Facilitates feedback and collaboration.
+6. Saves Time and Costs: Prevents costly revisions and delays.
+
+In short, it ensures a cohesive, efficient, and user-centered final product.
 
 ### Project Goals 🎯
 At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
