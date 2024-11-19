@@ -18,6 +18,47 @@ Listing Detailed View: A detailed view of a specific property, including more ex
 Simple Checkout View: A streamlined process for booking properties.
 Search Functionality: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
 
+##### Color Styles
+#F3F0F0, #222222, #F3F0F0, #222222, #F3F0F0, #222222, #F3F0F0, #222222, #F8FAFC, #E7E6E6, #34967C, #FFFFFF, #E7E6E6
+
+##### Typography (front family, font weight, font size)
+width: 391px;
+height: 0px;
+top: 1828.48px;
+left: 20px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+angle: -0 deg;
+
+width: 430px;
+height: 797px;
+top: 2354px;
+gap: 0px;
+opacity: 0px;
+
+width: 1024px;
+height: 746px;
+top: 1706px;
+gap: 0px;
+opacity: 0px;
+
+width: 782.09px;
+height: 0px;
+top: 1662px;
+left: 137px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+angle: -0 deg;
+
+width: Hug (320px)px;
+height: Hug (323px)px;
+top: 1917px;
+left: 603px;
+gap: 37px;
+opacity: 0px;
+
 
 ### Project Goals 🎯
 At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
