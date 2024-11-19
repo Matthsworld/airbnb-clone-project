@@ -105,8 +105,8 @@ Frontend: React with TypeScript, Next.js for server-side rendering and static si
 Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
-
-### Software Development Team Roles 👥
+### Project Roles and Responsibilities:
+#### Software Development Team Roles 👥
 In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a breakdown of the typical roles within a development team and their key responsibilities:
 
 #### Project Manager (PM) 🗂️
